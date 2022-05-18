@@ -16,7 +16,7 @@ const userSchema = new Schema({
     required: true,
     lowercase: true,
   },
-  registerType: {
+  RegisterType: {
     type: String,
     required: true,
   },
