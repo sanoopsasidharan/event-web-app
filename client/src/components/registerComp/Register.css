@@ -1,0 +1,9 @@
+.mainDivRegister {
+  background-color: aliceblue;
+  padding: 0px 20px 20px 20px;
+  border-radius: 10px;
+}
+.inputDiv input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
